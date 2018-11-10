@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "551783026840",
+    "firebase_url": "https://androidthingsledapp.firebaseio.com",
+    "project_id": "androidthingsledapp",
+    "storage_bucket": "androidthingsledapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551783026840:android:c51248251f405cac",
+        "android_client_info": {
+          "package_name": "com.example.jarroyoinvited.ledapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551783026840-m1rq553nnjvn0qqqu8gjnevhudi9ugsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJy8lp8ZUKMK1MMHggvX1D5taM8tPkIog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551783026840:android:02e7c9fed690221b",
+        "android_client_info": {
+          "package_name": "com.jarroyo.androidthingsledapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551783026840-m1rq553nnjvn0qqqu8gjnevhudi9ugsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJy8lp8ZUKMK1MMHggvX1D5taM8tPkIog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
